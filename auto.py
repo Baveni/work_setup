@@ -14,9 +14,9 @@ class browser:
     webbrowser.open_new(url)
     webbrowser.open_new(urlSecond)
 
-# This one opens an .exe file, you need to enter
+# This opens an .exe file, you need to enter
 # a ful path to program dir.
-# Enter full path to youre program directory to
+# Enter full path to your program dir to
 # automatically open it.
 # Python will convert forward-slashed to backslashes on Windows.
 
