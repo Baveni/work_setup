@@ -3,7 +3,7 @@ import os
 
 # This will open new browser if possible or
 # open a new tab with specified url.
-# Enter one more urls below to open.
+# Enter one or more urls below to open them.
 # I mostly use stackoverflow and google :)
 
 class browser:
